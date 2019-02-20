@@ -1,0 +1,1 @@
+jekyll build --source "C:\Users\dan\Documents\Visual Studio 2017\Projects\rimonim\SiteBuilder\templates\ver1"  --destination "C:\Users\dan\Documents\Visual Studio 2017\Projects\rimonim\SiteBuilder\templates\ver1\publish"

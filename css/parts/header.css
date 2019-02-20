@@ -1,0 +1,91 @@
+/* Header */
+
+header {
+	padding: 30px 15px;
+}
+
+	/* logo */
+	
+.logo {
+	text-align: left;
+}
+
+	/* menu */
+
+.navbar {
+	border-right: 1px solid #e5e7e8;
+}
+
+.navbar-light .navbar-nav .nav-link {
+	font-size: 25px;
+	color: #161213;
+	margin: 0 10px;
+}
+
+.navbar-light .navbar-nav .nav-link.active {
+	border-bottom: 2px solid #f87b16;
+}
+
+.navbar-light .navbar-toggler {
+    outline: none;
+    cursor: pointer;
+}
+
+	/* log-in */
+	
+ul.log-in li {
+	display: inline-block;
+	vertical-align: middle;
+	margin: 0 5px;
+}
+
+ul.log-in li p {
+	font-size: 35px;
+	color: #0f1745;
+}
+
+ul.log-in li p span {
+	font-size: 25px;
+}
+
+ul.log-in li h4 {
+	font-family: Heebo-Medium;
+	font-size: 25px;
+}
+
+ul.log-in li h4 a {
+	color: #f87b16;
+	text-decoration: underline;
+}
+
+/* media */
+
+@media (max-width: 1500px) {
+	.navbar-light .navbar-nav .nav-link {
+		font-size: 21px;
+	}
+	ul.log-in li p {
+		font-size: 25px;
+	}
+	ul.log-in li p span {
+		font-size: 18px;
+	}
+	ul.log-in li h4 {
+		font-size: 18px;
+	}
+}
+
+@media (max-width: 1199px) {
+	header {
+		padding: 15px;
+	}
+	ul.log-in {
+		margin-bottom: 15px;
+	}
+}
+
+@media (max-width: 767px) {
+	header {
+		padding: 15px 0;
+	}
+}

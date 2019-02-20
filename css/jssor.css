@@ -1,0 +1,17 @@
+.jssorl-004-double-tail-spin img{animation-name:jssorl-004-double-tail-spin;animation-duration:1.2s;animation-iteration-count:infinite;animation-timing-function:linear;}
+@keyframes jssorl-004-double-tail-spin{from{transform:rotate(0deg);}
+to{transform:rotate(360deg);}
+}
+.jssorb051 .i{position:absolute;cursor:pointer;width:10px;height:10px;}
+.jssorb051 .i.iav{width:14px;height:14px;}
+.jssorb051 .i.iav svg{top:50%!important;left:50%!important;margin-top:-9px;margin-left:-9px;}
+.jssorb051 .i .b{fill:#d0cfcf;fill-opacity:1;/*stroke:#000;stroke-width:400;stroke-miterlimit:10;stroke-opacity:0.5;*/}
+.jssorb051 .i:hover .b{fill:#f87b16;fill-opacity:.3;}
+.jssorb051 .iav .b{fill:#f87b16;fill-opacity:1;}
+.jssorb051 .i.iav:hover .b{fill:#f87b16;fill-opacity:1;}
+.jssorb051 .i.idn{opacity:.3;}
+.jssora051{display:block;position:absolute;cursor:pointer;}
+.jssora051 .a{fill:none;/*stroke:#fff;stroke-width:360;stroke-miterlimit:10;*/}
+.jssora051:hover{opacity:.8;}
+.jssora051.jssora051dn{opacity:.5;}
+.jssora051.jssora051ds{opacity:.3;pointer-events:none;}
